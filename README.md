@@ -1,4 +1,3 @@
-```markdown
 # 🏆 ML Project: House Prices Kaggle Competition
 
 <div align="center">
@@ -97,4 +96,3 @@ KNeighborsRegressor(), SVR(), KernelRidge()
 ## 👥 Автор
 
 **TheSunlitMan**
-```
