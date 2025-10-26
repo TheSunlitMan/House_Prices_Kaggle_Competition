@@ -30,7 +30,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-```
+
 
 ### Запуск проекта
 
@@ -97,3 +97,4 @@ KNeighborsRegressor(), SVR(), KernelRidge()
 ## 👥 Автор
 
 **TheSunlitMan**
+```
